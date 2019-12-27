@@ -1,4 +1,4 @@
-package YourApp;
+package WatchApp;
 
 use App::Cmd::Setup -app;
 
